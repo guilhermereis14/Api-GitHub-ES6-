@@ -1,1 +1,1 @@
-# Api-GitHub-ES6-
+# Api desenvolvida utilizando recursos do ES6+ para pesquisar repositórios do GitHub
